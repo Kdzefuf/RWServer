@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RWServer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
